@@ -1,2 +1,6 @@
 ﻿项目章程规范V1.0
 《1》关于工作日报所有人每天下班前在OKIT中发送工作日报，具体请参考SVN\12_Public\03_Project Regular\工作日报手册.png，组员->小组长->组长->PMO->项目管理层《2》关于请假所有人员请注意，请假请按如下要求：   （1）请假申请发送对象：所属组组长、PM 高志明、PA 李黄容。由各组长根据情况统一向客户说明。PM 高志明 max.z.gao@cn.pwc.comPA 李黄容 li.jennifer@pwc.com各组组长邮箱：需求组 金虎 hu.jin@cn.pwc.com平台组 王锋 visualfeng@aliyun.com架构组 杨笑刚 seamus.yang@cn.pwc.com开发组 高志明 max.z.gao@cn.pwc.com测试组 吉日木图 frank.m.jiri@pwc.com数据迁移组 姜黎立 alex.ll.jiang@cn.pwc.com环境组 张敏 anna.m.zhang@pwc.comPS：项目组内部统一邮箱从2月初开始正式使用，启用后即统一改用内部邮箱发送项目组所有正式文件.   （2）请假必须填写请假单SVN\12_Public\01_Working_Templates\新核心实施项目请休假申请单.docx《3》关于加班打车报销请严格按照项目报销标准手册提交报销单，详见SVN\12_Public\03_Project Regular\项目报销事宜2018-1-30.xlsx
+
+
+
+6666666
